@@ -114,3 +114,33 @@ As the application grows, reusable styles and components make it easier to updat
 Accessibility & Usability:
 Proper contrast ratios, readable fonts, and logical spacing improve accessibility and overall user satisfaction.
 By analyzing and defining these design properties early in the process, we ensure a more efficient workflow and deliver a high-quality user experience.
+
+📋 Project Roles and Responsibilities
+To ensure smooth development and successful delivery of the Airbnb clone web application, our team follows a structured approach with clearly defined roles. Each role contributes uniquely to the planning, design, development, testing, and deployment phases of the project.
+
+Project Manager
+Oversees project timelines, coordinates team members, tracks progress, and ensures deliverables are met on time.
+Keeps the project organized, ensuring all parts come together efficiently and deadlines are respected.
+Frontend Developers
+Implement the user interface using HTML, CSS, JavaScript (React), and ensure responsive, interactive UI components.
+Bring the Figma designs to life, creating an engaging and functional user experience in the browser.
+Backend Developers
+Build and maintain APIs, manage databases, and implement server-side logic and authentication.
+Enable dynamic data handling and functionality behind the scenes, supporting frontend interactions.
+Designers
+Create high-fidelity mockups using Figma, define color schemes, typography, and design reusable UI components.
+Ensure the application is visually appealing, user-friendly, and consistent across all screens.
+QA/Testers
+Write test cases, perform manual and automated testing, identify bugs, and verify fixes.
+Guarantee the app works reliably across devices and browsers, reducing issues before deployment.
+DevOps Engineers
+Set up CI/CD pipelines, manage cloud infrastructure, and handle deployment and monitoring of the application.
+Ensure the application runs smoothly in production and scales effectively as needed.
+Product Owner
+Define product requirements, prioritize features, and represent stakeholder interests during development.
+Ensures that the final product aligns with user needs and business goals.
+Scrum Master
+Facilitate Agile ceremonies (standups, sprint reviews, retrospectives), remove blockers, and support team collaboration.
+Promotes a productive and collaborative team environment, following Agile best practices.
+
+By clearly defining these roles and responsibilities, we ensure accountability, streamline communication, and enhance overall team efficiency throughout the project lifecycle.
