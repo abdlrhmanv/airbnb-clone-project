@@ -144,3 +144,43 @@ Facilitate Agile ceremonies (standups, sprint reviews, retrospectives), remove b
 Promotes a productive and collaborative team environment, following Agile best practices.
 
 By clearly defining these roles and responsibilities, we ensure accountability, streamline communication, and enhance overall team efficiency throughout the project lifecycle.
+
+
+🧩 UI Component Patterns
+As part of the Airbnb Clone web application, we will implement reusable and consistent UI components to ensure a cohesive user experience and efficient development process. These components will be built using React (or similar framework) and styled with modular CSS or a styling library .
+
+🔧 Planned Components
+1. Navbar
+Description: A navigation bar displayed at the top of the page.
+Includes:
+Logo
+Search bar for location, dates, and guests
+User profile/navigation menu
+Responsive hamburger menu for mobile devices
+Purpose: Provides easy access to key features and maintains consistent navigation across all pages.
+2. Property Card
+Description: A compact, reusable component representing a single property listing.
+Includes:
+Property image
+Title/location
+Price per night
+Rating/reviews summary
+Favorite/heart button
+Purpose: Displays listings in a grid format on the Property Listing View and allows users to preview accommodations quickly.
+3. Footer
+Description: A consistent section at the bottom of every page.
+Includes:
+Links to important pages (About, Help, Contact)
+Company information and legal links
+Social media icons
+Copyright notice
+Purpose: Enhances usability by providing quick access to support content and external channels.
+🔄 Reusability & Consistency
+Each component will be designed to be:
+
+Reusable: Can be used across multiple pages without duplication.
+Responsive: Adapts to different screen sizes and devices.
+Modular: Easy to update and maintain independently.
+Styled consistently: Using the defined color styles and typography from the Figma design.
+By building and organizing the UI with these patterns, we ensure that our application remains scalable, easier to test, and aligned with modern frontend development best practices.
+
