@@ -65,3 +65,52 @@ Cognitive load is minimized, leading to faster decision-making.
 Accessibility and inclusivity are prioritized, ensuring a wider audience reach.
 Trust is built through professional and consistent visual design.
 This project emphasizes user-centered design principles , ensuring that every interaction feels natural and purposeful.
+
+🖌️ Color Styles
+The following color styles were identified from the Figma design to ensure visual consistency across the application:
+
+Primary Color
+#34967C
+Secondary Color
+#FFA800
+Background Color
+#FFFFFF
+Text Color
+#222222
+Secondary Text
+#FFFFFF
+
+These colors help maintain brand identity, readability, and visual hierarchy throughout the app.
+
+🔤 Typography
+Typography plays a key role in readability and user experience. The following font settings were used in the Figma mockup:
+
+Primary Text
+Quicksand
+Medium (600)
+22px
+Headings
+Source Sans Pro
+Bold (600)
+94px
+Secondary Text
+Quicksand
+Medium (500)
+17px
+
+Using a consistent typographic system ensures clarity, professionalism, and better accessibility for all users.
+
+💡 Importance of Identifying Design Properties of a Mockup
+Understanding and documenting design properties such as colors , typography , spacing , and layout grids is crucial for several reasons:
+
+Design Consistency:
+Ensures that all UI elements across different pages follow the same visual language, making the app feel cohesive and polished.
+Smooth Developer Handoff:
+Developers rely on accurate design specifications to implement components correctly. Clear documentation reduces misunderstandings and speeds up development.
+Team Collaboration:
+When working in a team, having defined design properties allows multiple contributors to work simultaneously without breaking the design system.
+Scalability & Maintenance:
+As the application grows, reusable styles and components make it easier to update and scale the design over time.
+Accessibility & Usability:
+Proper contrast ratios, readable fonts, and logical spacing improve accessibility and overall user satisfaction.
+By analyzing and defining these design properties early in the process, we ensure a more efficient workflow and deliver a high-quality user experience.
